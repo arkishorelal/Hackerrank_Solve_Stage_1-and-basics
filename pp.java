@@ -1,3 +1,27 @@
+/*Products of the digits in a number
+
+Input Format
+
+Input should be an Integer
+
+Constraints
+
+1 <= N <= 10000
+
+Output Format
+
+Output should be Integer
+
+Sample Input 0
+
+12
+Sample Output 0
+
+2
+Sample Input 1
+
+57*/
+
 package hackerrank;
 
 import java.util.Scanner;
