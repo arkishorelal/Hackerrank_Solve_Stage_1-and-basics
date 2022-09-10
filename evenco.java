@@ -1,3 +1,30 @@
+/*Count the even digits in a number. Print the count.
+
+Input Format
+
+Input should be an Integer
+
+Constraints
+
+1 <= N <= 1000000
+
+Output Format
+
+Output should be an Integer
+
+Sample Input 0
+
+123
+Sample Output 0
+
+1
+Sample Input 1
+
+2138
+Sample Output 1
+
+2 */
+
 package hackerrank;
 
 import java.util.Scanner;
